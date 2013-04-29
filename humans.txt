@@ -1,0 +1,19 @@
+/* TEAM */
+
+Ricardo Vitorino
+www.ricardovitorino.com
+@rjvitorino
+Coimbra, Portugal
+
+/* THANKS */
+
+Miguel Laginha - @brecke - www.miguellaginha.com
+David Francisco - @dmfrancisco - dmfranc.com 
+
+/* SITE */
+
+Last update: 2013/04/29 
+Standards: HTML5, CSS3
+Components: jQuery, Orbit, Reveal
+Software: Sublime Text2, Git
+                            
